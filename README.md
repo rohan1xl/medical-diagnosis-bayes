@@ -97,8 +97,7 @@ medical-diagnosis-bayes/
 The system uses a Bayesian Network to model the relationships between diseases and symptoms. The network structure and conditional probabilities are defined based on medical knowledge. When symptoms are input, the system uses Bayesian inference to calculate the probability of each disease.
 
 ## Author
-
-Your Name
+ROHAN KUMAR
 
 ## License
 
